@@ -27,3 +27,4 @@ unittest2
 urllib3
 ujson
 vprof
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
