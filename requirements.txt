@@ -27,3 +27,4 @@ unittest2
 urllib3
 ujson
 vprof
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
